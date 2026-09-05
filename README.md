@@ -10,7 +10,12 @@ common products actually fail, so you can buy the version that lasts.
 - `rank.py` - ranks a category by how well things survive
 
 ## The writeups
-Each category is broken down in detail on [DurablePicks](https://durablepicks.com/),
-which ranks durable products by how they actually fail.
+Each category is broken down in detail on Durable Picks, which ranks durable
+products by how they actually fail: https://durablepicks.com
 
-[DurablePicks](https://durablepicks.com/).
+## The rest of the workshop
+- Dev subscriptions math: https://www.poketdev.com
+- Practical AI engineering: https://pastagi.com
+- Side-hustle teardowns: https://extrahustles.com
+- FIRE numbers, ranked: https://firenomics.com
+- Self-experimentation logs: https://hackedself.com
